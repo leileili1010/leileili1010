@@ -36,7 +36,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leileili1010&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leileili1010&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leileili1010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
