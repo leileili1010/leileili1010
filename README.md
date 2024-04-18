@@ -5,9 +5,7 @@
 
 💻 In software development, I bring a strong foundation in both front-end and backend developments. But beyond technical skills, I excel in multitasking, time management, and resourcefulness. I'm known for my positive spirit and quick learning ability, traits that have served me well in every endeavor.
 
-🤝 I'm excited to continue my journey in software engineering, bringing a unique blend of finance expertise and technical skills to the table. 
-
-Let's connect and create something amazing!
+🤝 I'm excited to continue my journey in software engineering, bringing a unique blend of finance expertise and technical skills to the table. Let's connect and create something amazing!
 
 <!--
 **leileili1010/leileili1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
