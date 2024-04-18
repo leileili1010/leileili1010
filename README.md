@@ -8,6 +8,10 @@
 
 🤝 I'm excited to continue my journey in software engineering, bringing a unique blend of finance expertise and technical skills to the table. Let's connect and create something amazing!
 
+## Contact Me
+📫 Email: lei.xw.li@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leileili)
+
 ## Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
