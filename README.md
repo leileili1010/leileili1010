@@ -1,3 +1,4 @@
+![alt text](<github-header-image (9).png>)
 ## About Me
 ### Hi, I'm Fiona! 👋 
 😄 I'm a software engineer with a finance background, driven by a passion for problem-solving and innovation.
