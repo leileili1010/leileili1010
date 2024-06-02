@@ -3,7 +3,7 @@
 ### Hi, I'm Fiona! 👋 
 😄 I'm a software engineer with a finance background, driven by a passion for problem-solving and innovation.
 
-✨ Transitioning from a career in finance, where I excelled in private equity valuation, managing projects under pressure and fostering a supportive atmosphere within my team. I discovered my passion for coding through creating automation tools to streamline working process and enhance efficiency. This led me to pursue software engineering, leveraging my skills to create tangible and impactful solutions.
+✨ Transitioning from a career in finance, where I excelled in private equity valuation, managing projects under pressure and fostering a supportive atmosphere within my team, I discovered my passion for coding through creating automation tools to streamline working process and enhance efficiency. This led me to pursue software engineering, leveraging my skills to create tangible and impactful solutions.
 
 💻 In software development, I bring a strong foundation in both front-end and backend developments. But beyond technical skills, I excel in multitasking, time management, and resourcefulness. My positive spirit and quick learning ability are traits that have served me well in every endeavor.
 
