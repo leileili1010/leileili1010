@@ -32,7 +32,7 @@ In my spare time, I enjoy yoga, playing pool, board games(big fan), watching bas
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 
-### I am currently working on:
+### 🌟 I am currently working on:
 <ul>
   <li>👨‍💻 A new project using Java and Spring Boot </li>
   <li>👨‍💻 Refining my capstone project to add a message functionality using websocket </li>
