@@ -1,28 +1,18 @@
-![alt text](<github-header-image (11).png>)
-## About Me
-### Hi, I'm Fiona! 👋 
-😄 I'm a software engineer with a finance background, driven by a passion for problem-solving and innovation.
 
-✨ Transitioning from a career in finance, where I excelled in private equity valuation, project management under pressure, and fostering a supportive team atmosphere, I discovered my passion for coding by creating automation tools to streamline processes and enhance efficiency. This passion led me to pursue software engineering, leveraging my skills to develop tangible and impactful solutions.
+<h3 align="center">Hi, I’m Fiona!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></h3>
+<p>
+I'm a full-stack software engineer with a finance background in private equity valuation. My passion for programming started with building automation tools using Excel Macro VBA (though some might not consider VBA a "real" programming language 😅). I worked at the Healthcare of Ontario Pension Plan and PricewaterhouseCoopers before transitioning to software engineering by attending App Academy. I love exploring frameworks and tools to build websites. I believe learning is a lifelong process, and I strive to learn a bit more each day than I did yestersay.
+</p>
+<p>
+In my spare time, I enjoy yoga, playing pool, board games(big fan), watching basketball and spending time with friends and family. 
+</p>
 
-💻 In software development, I bring a strong foundation in both front-end and backend development, coupled with exceptional multitasking, time management, and resourcefulness. My positive spirit and quick learning ability have consistently driven my success.
-
-🤝 I'm excited to continue my journey in software engineering, combining my finance expertise with technical skills. Let's connect and create something amazing!
-
-## Contact Me
-📫 Email: lei.xw.li@hotmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leileili)
-
-## Tech Stack
-### Languages
+### 💻 My Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-
-### Frameworks and Tools
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -42,12 +32,21 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=leileili1010&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=leileili1010&theme=dark&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=leileili1010&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leileili1010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### I am currently working on:
+<ul>
+  <li>👨‍💻 A new project using Java and Spring Boot </li>
+  <li>👨‍💻 Refining my capstone project to add a message functionality using websocket </li>
+  <li>📚 DSA using Java </li>
+</ul>
 
----
-[![](https://visitcount.itsvg.in/api?id=leileili1010&icon=0&color=0)](https://visitcount.itsvg.in)
+### Connect With Me!
+<p>
+  <a href="https://www.linkedin.com/in/leileili/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-32A7FF?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
+
 
