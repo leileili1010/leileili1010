@@ -39,7 +39,7 @@ In my spare time, I enjoy yoga, playing pool, board games(big fan), watching bas
   <li>📚 DSA using Java </li>
 </ul>
 
-### Connect With Me!
+### 🤝 Connect With Me!
 <p>
   <a href="https://www.linkedin.com/in/leileili/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-32A7FF?style=flat-square&logo=linkedin&logoColor=white" />
