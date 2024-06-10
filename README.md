@@ -1,7 +1,7 @@
 
 <h3 align="center">Hi, I’m Fiona!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></h3>
 <p>
-I'm a full-stack software engineer with a finance background in private equity valuation. My passion for programming started with building automation tools using Excel Macro VBA (though some might not consider VBA a "real" programming language 😅). I worked at the Healthcare of Ontario Pension Plan and PricewaterhouseCoopers before transitioning to software engineering by attending App Academy. I love exploring frameworks and tools to build websites. I believe learning is a lifelong process, and I strive to learn a bit more each day than I did yestersay.
+I'm a full-stack software engineer with a finance background in private equity valuation. My passion for programming started with building automation tools using Excel Macro VBA (though some might not consider VBA a "real" programming language 😅). I worked at the Healthcare of Ontario Pension Plan before transitioning to software engineering by attending App Academy. I love exploring frameworks and tools to build websites. I believe learning is a lifelong process, and I strive to learn a bit more each day than I did yestersay.
 </p>
 <p>
 In my spare time, I enjoy yoga, playing pool, board games(big fan), watching basketball and spending time with friends and family. 
