@@ -1,10 +1,13 @@
 
 <h3 align="center">Hi, I’m Fiona!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></h3>
 <p>
-I'm a full-stack software engineer with a finance background in private equity valuation. My passion for programming started with building automation tools using Excel Macro VBA (though some might not consider VBA a "real" programming language 😅). I worked at the Healthcare of Ontario Pension Plan before transitioning to software engineering by attending App Academy. I love exploring frameworks and tools to build websites. I believe learning is a lifelong process, and I strive to learn a bit more each day than I did yestersay.
+I am transitioning into software development with a clear focus on leveraging my background in finance to drive automation and improve inefficiencies through technology. With prior experience in PE investment and financial modeling at Healthcare of Ontario Pension Plan, I have a proven track record of collaborating with cross-functional teams, optimizing processes, and delivering measurable results.
 </p>
 <p>
-In my spare time, I enjoy yoga, playing pool, board games (big fan), watching basketball (Go Warriors💪) and spending time with friends and family. 
+My goal is to create impactful tools and systems that automate complex processes, enhance decision-making, and drive productivity for businesses. By merging my financial acumen with technical expertise, I aim to bridge the gap between finance and technology, delivering solutions that are both innovative and practical.
+</p>
+<p>
+If you're interested in my journey or would like to explore potential collaborations, please feel free to connect!
 </p>
 
 ### 💻 My Tech Stack
