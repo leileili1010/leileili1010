@@ -42,13 +42,6 @@ If you're interested in my journey or would like to explore potential collaborat
   <li>📚 DSA using Java </li>
 </ul>
 
-### 🤝 Connect With Me!
-<p>
-  <a href="https://www.linkedin.com/in/leileili/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-32A7FF?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 
 
 
