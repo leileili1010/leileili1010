@@ -1,13 +1,13 @@
 
 <h3 align="center">Hi, I’m Fiona!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></h3>
 <p>
-I am transitioning into software development with a clear focus on leveraging my background in finance to drive automation and improve inefficiencies through technology. With prior experience in PE investment and financial modeling at Healthcare of Ontario Pension Plan, I have a proven track record of collaborating with cross-functional teams, optimizing processes, and delivering measurable results.
+👋 Hi, I’m Fiona! I’m passionate about building impactful applications to solve real world problems. My journey so far has equipped me with a robust foundation in DSA, OOD and hands-on experience in building full stack web applications and optimized code for scalability.
 </p>
 <p>
-My goal is to create impactful tools and systems that automate complex processes, enhance decision-making, and drive productivity for businesses. By merging my financial acumen with technical expertise, I aim to bridge the gap between finance and technology, delivering solutions that are both innovative and practical.
+🔍 Currently I’m seeking opportunities where I can apply my skills, collaborate with talented teams, and keep growing as a software engineer. I’m especially excited about AI, full-stack development, and crafting user-centric applications. My tech stack includes Java, Python, JavaScript, Express.js, Flask, PostgreSQL, AWS, Docker, and CI/CD. I’m also working toward AWS Solutions Architect certification and building on my portfolio website. 
 </p>
 <p>
-If you're interested in my journey or would like to explore potential collaborations, please feel free to connect!
+🚀 I thrive on learning, adapting, and turning challenges into solutions. Let’s connect—I’d love to chat about opportunities, ideas, or simply expand my network. Feel free to reach out—I’m always excited to meet new people and explore how we can create something amazing together!
 </p>
 
 ### 💻 My Tech Stack
